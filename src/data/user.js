@@ -1,4 +1,5 @@
 const user = {
+  truthy: true,
   name: "Liza",
   city: "New York",
   bio: "I made this!",
